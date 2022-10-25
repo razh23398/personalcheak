@@ -1,0 +1,66 @@
+/*------------------ TAG CSS -----------------------*/
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+}
+h2{
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+}
+hr{
+  border-width: 10px;
+  border-top: 0;
+  width: 80%;
+  border-style: dotted;
+}
+
+/*------------------ CLASS CSS ---------------------*/
+.top-container{
+  padding-top: 30px;
+  background-color: #C3F8FF;
+}
+.firsth1{
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.265rem;
+  color: #66BFBF;
+}
+.top-cloud{
+  position: absolute;
+  right: 350px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 350px;
+  top: 200px;
+}
+.html5{
+  height: 100px;
+}
+.html5{
+  height: 150px;
+}
+.css3{
+  height: 150px;
+}
+.javascript{
+  height: 150px;
+}
+.uxui{
+  height: 150px;
+}
+.skill-row{
+  width: 50%;
+  margin: auto;
+}
+
+/*------------------ ID CSS -----------------------*/
+
+#profilepic{
+  border-radius: 60%;
+}
